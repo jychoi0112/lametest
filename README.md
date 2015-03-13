@@ -1,0 +1,2 @@
+# lametest
+test lame library
